@@ -5,8 +5,10 @@ REST API client for Cosmos SDK Liquidity module.
 ## Install
 
 ```shell
-npm install @cosmos-client/liquidity
+npm install @cosmos-client/core @cosmos-client/liquidity
 ```
+
+To see the usage of `@cosmos-client/core`, please see this [link](https://github.com/cosmos-client/cosmos-client-ts);
 
 ## Examples
 
